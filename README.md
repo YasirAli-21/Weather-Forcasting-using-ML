@@ -99,7 +99,5 @@ The core forecasting is handled by a **Decision Tree Regressor**.
 ## 👨‍💻 Author <a name="author"></a>
 **Yasir Ali** | IT Enthusiast | © 2025 SkyCast
 
-I am passionate about using Data Science to understand environmental changes and building tools that make data meaningful.
-
 [![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YasirAli-21)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasisahito)
