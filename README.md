@@ -1,5 +1,7 @@
 # 🌦️ SkyCast: Weather Forecasting using Machine Learning
 
+![CI](https://github.com/YasirAli-21/Weather-Forcasting-using-ML/actions/workflows/python-ci.yml/badge.svg?branch=master)
+
 **Leveraging Predictive Analytics and Clustering to Forecast Atmospheric Patterns**
 
 ---
